@@ -1,4 +1,5 @@
 ##Prime Numbers Visualization
+  
   📜 Project Description
     This project generates the first N prime numbers using a custom Python function and visualizes them with Matplotlib.
     
